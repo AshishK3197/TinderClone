@@ -5,7 +5,7 @@
 **This application was developed using SwiftUI Framework and Google’s Firebase Storage Services to fetch Profile Details and Firebase Fire Store Database to store, fetch and manipulate other relevant details.**
 
 
-## ScreenShots-
+## Screenshots-
 
 
 | **ScreenShot 1**  | **ScreenShot 2** | **Gif** |
