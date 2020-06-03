@@ -5,5 +5,6 @@ This application was developed using SwiftUI Framework and Google’s Firebase S
 
 
 ScreenShots
-Tinder Demo/Screenshot 2020-06-03 at 8.55.40 PM.png
-Tinder Demo/Screenshot 2020-06-03 at 8.56.41 PM.png
+![image](https://user-images.githubusercontent.com/55451558/83666014-e8ce0400-a5e9-11ea-8d82-c2a97c16c958.png)
+
+![image](https://user-images.githubusercontent.com/55451558/83666221-364a7100-a5ea-11ea-977c-18cc4b92151c.png)
